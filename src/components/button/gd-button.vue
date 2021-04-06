@@ -64,7 +64,7 @@ span a {
 }
 
 .btn:hover{
-  color: #2c3e50;
+  color: var(--color);
 }
 
 .btn:hover::after{
